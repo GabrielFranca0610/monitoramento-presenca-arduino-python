@@ -16,7 +16,6 @@ Endereço: Rua Darke de Mattos, 92 – Higienópolis, Rio de Janeiro – RJ
 - Arduino UNO R3 (ATmega328P)
 - Sensor PIR (HC-SR501)
 - LEDs (vermelho, amarelo, verde)
-- Buzzer ativo 5V
 - Cabos jumper, protoboard, resistores
 - Interface via Python + Tkinter
 - Comunicação serial (Arduino ↔ Python)
